@@ -5,7 +5,7 @@ import streamlit as st
 # import matplotlib.pyplot as plt
 
 import plotly.express as px
-df = pd.read_csv('netlix_titles.csv')
+df = pd.read_csv('netflix_titles.csv')
 
 
     # Data Cleaning
